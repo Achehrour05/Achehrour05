@@ -1,185 +1,111 @@
-<div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=220&section=header&text=Abdessamad%20Achehrour&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Builder&descAlignY=58&descFontSize=19&fontColor=ffffff" width="100%" alt="Header Banner" />
-
-<!-- Typing Dynamic Title in Monospace Fira Code -->
-<a href="https://github.com/Achehrour05">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+State+Engineering+Student+%40+FSTG+Marrakech;%F0%9F%9A%80+Full-Stack+Architect+(React+19%2C+Spring+Boot+3%2C+FastAPI);%F0%9F%A7%A0+GenAI%2C+RAG+%26+Multi-Agent+Systems+(LangGraph);%F0%9F%90%B3+Containerized+Microservices+(Docker+%26+Apache+Kafka);" alt="Typing Title" />
-</a>
-
+<!-- Top Hero Banner with Wave Animation -->
 <p align="center">
-  <b>Étudiant Ingénieur en Informatique — Full Stack & Intelligence Artificielle</b><br/>
-  Faculté des Sciences et Techniques de Marrakech (FSTG) · Marrakech, Maroc 🇲🇦
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Abdessamad%20Achehrour&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=58&descFontSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
-<!-- Social Badges (NO Instagram - Professional Tech Identity) -->
+<!-- Typing Subtitle Effect -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdessamad-achehrour-800138346" target="_blank">
+  <a href="https://github.com/Achehrour05">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Engineering+Student+%40+FST+Marrakech+%F0%9F%8E%93;Full-Stack+Developer+(React%2C+Spring+Boot%2C+FastAPI)+%F0%9F%92%BB;Computer+Vision+%26+Deep+Learning+Builder+%F0%9F%A4%96;Passionate+about+Crafting+Scalable+Architectures+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdessamad-achehrour/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:abdessamadachehrour@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:abdessamadachehrour@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://achehrour-2005.github.io/Portfulio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Achehrour05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Achehrour05">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<!-- National Committer Rank Badge -->
-<p align="center">
-  <a href="https://user-badge.committers.top/morocco/Achehrour05">
-    <img src="https://user-badge.committers.top/morocco/Achehrour05.svg" alt="Morocco Committers Top" />
-  </a>
-</p>
+---
 
-</div>
+### 👨‍💻 About Me
+
+```yaml
+name: Abdessamad Achehrour
+location: Marrakech, Morocco 🇲🇦
+education: State Engineering Degree in Networks & Information Systems @ FSTG (2024 - Present)
+focus_areas:
+  - Full-Stack Architecture (Spring Boot 3, FastAPI, React 19)
+  - Deep Learning, Computer Vision & NLP (PyTorch, YOLOv8, Transformers)
+  - Distributed Systems, Cloud & Database Design
+passions: Building high-impact products, combat sports analytics, and traveling
+status: Open to Software Engineering, AI & Full-Stack Opportunities 🚀
+```
 
 ---
 
-### 👨‍💻 À Propos de Moi
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <p>
-        Étudiant ingénieur en informatique (Cycle d’ingénieur Informatique & Réseaux) à la <b>Faculté des Sciences et Techniques de Marrakech</b>, j'évolue à l’intersection du <b>génie logiciel full-stack</b>, des <b>microservices distribués</b> et de l'<b>intelligence artificielle</b>.
-      </p>
-      <ul>
-        <li>🎓 <b>Formation :</b> Cycle d'ingénieur d'État en Informatique & Réseaux @ <b>FSTG Marrakech</b> (2024 – Présent).</li>
-        <li>💼 <b>Expérience :</b> 3 expériences professionnelles réussies en développement logiciel (<b>PCS AGRI</b>, <b>Lean Soft</b>, <b>Smart Support Hub</b>).</li>
-        <li>🔭 <b>Projet Actuel :</b> <code>Smart Support Hub</code> — Plateforme événementielle de support client intelligent (microservices FastAPI, LangGraph, RAG via Pinecone, Apache Kafka & React).</li>
-        <li>🧠 <b>Spécialités IA :</b> LLMs, RAG sémantique, Systèmes Multi-Agents (LangGraph), Vision par ordinateur (PyTorch, YOLOv8, ONNX, CNN).</li>
-        <li>🛠️ <b>Architectures :</b> Microservices événementiels, conteneurisation Docker, pipelines CI/CD et API REST scalables.</li>
-        <li>📍 <b>Localisation :</b> Marrakech, Maroc 🇲🇦</li>
-        <li>📬 <b>Contact direct :</b> <a href="mailto:abdessamadachehrour@gmail.com">abdessamadachehrour@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" alt="Developer coding animation" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧰 Arsenal Technique & Compétences
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="right"><b>Langages :</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,php,html,css&theme=dark" alt="Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend & Mobile :</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap&theme=dark" alt="Frontend" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend & APIs :</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,fastapi,laravel,nodejs,express,flask&theme=dark" alt="Backend" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>IA & Deep Learning :</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI & ML" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Bases de Données & Broker :</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,kafka&theme=dark" alt="Databases" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>DevOps, Cloud & Outils :</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,nginx,linux,ubuntu,vscode,idea,pycharm,postman,figma&theme=dark" alt="Tools" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) |
+| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Frontend & UI** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **AI, ML & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Databases & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-### 🚀 Projets & Réalisations Phares
+### 🚀 Featured Showcase Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/Achehrour05">Smart Support Hub</a></h3>
-      <p align="center">
-        <b>Assistant de Support Client Intelligent (Multi-Agents & RAG)</b><br/>
-        <i>FastAPI · LangGraph · Gemini API · Pinecone · Apache Kafka · React · Docker</i>
-      </p>
-      <ul>
-        <li>Architecture microservices événementielle pour le traitement automatisé des tickets.</li>
-        <li>Recherche sémantique vectorielle via <b>Pinecone</b> & agents autonomes sous <b>LangGraph</b>.</li>
-        <li>Tableau de bord React temps réel avec protocole d'escalade vers agents humains.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌴 <a href="https://github.com/Achehrour05">PCS AGRI Diagnostic IA</a></h3>
-      <p align="center">
-        <b>Agriculture Intelligente & Détection Pathologique des Palmiers</b><br/>
-        <i>PyTorch · ONNX · React Native (Expo) · Laravel · FastAPI · Docker Compose</i>
-      </p>
-      <ul>
-        <li>Application mobile pour le diagnostic phytosanitaire en temps réel par capture photo.</li>
-        <li>Exportation et optimisation de modèles Deep Learning PyTorch vers le runtime <b>ONNX</b>.</li>
-        <li>Déploiement conteneurisé avec Nginx et Dokploy.</li>
-      </ul>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏺 <a href="https://github.com/Achehrour05/MoroccoMemory">Morocco Memory</a></h3>
       <p align="center">
-        <b>Plateforme de Tourisme & Héritage Artisanal Marocain</b><br/>
-        <i>Spring Boot 3 · React 19 · PostgreSQL · JWT · Docker Compose</i>
+        <b>Luxury Moroccan Travel & Artisan Heritage Platform</b><br/>
+        Spring Boot 3 · React 19 · PostgreSQL · JWT · Docker
       </p>
       <ul>
-        <li>Exploration interactive cartographique des 12 régions marocaines.</li>
-        <li>Planificateur de séjour assisté par IA avec exportateur d'itinéraires sur mesure.</li>
-        <li>Place de marché éthique reliant les voyageurs aux coopératives authentiques.</li>
+        <li>Interactive geographic exploration of 12 Moroccan regions.</li>
+        <li>AI vacation planner with customized exportable itineraries.</li>
+        <li>Marketplace connecting travelers directly to authentic cooperatives.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🥊 <a href="https://github.com/Achehrour05/Vanguard-Combat">Vanguard Combat</a></h3>
       <p align="center">
-        <b>Hub d'Intelligence Multi-Discipline des Sports de Combat</b><br/>
-        <i>FastAPI · React · Uvicorn · REST APIs · Tailwind CSS</i>
+        <b>Elite Multi-Discipline Combat Intelligence Hub</b><br/>
+        FastAPI · React · Uvicorn · REST APIs · Tailwind
       </p>
       <ul>
-        <li>Profiling temps réel des athlètes (MMA, Boxe, BJJ, Kickboxing, Lutte).</li>
-        <li>Moteur tactique de combat avec suggestions analytiques basées sur les styles martiaux.</li>
-        <li>Système de recherche et mise en favoris avec persistance locale fluide.</li>
+        <li>Live athlete profiling across MMA, Boxing, BJJ, Kickboxing & Wrestling.</li>
+        <li>Real-time data aggregation via Octagon and TheSportsDB APIs.</li>
+        <li>Embedded Combat AI tactical engine with strategic advice.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ <a href="https://github.com/Achehrour05">VisionGuide AI</a></h3>
+      <p align="center">
+        <b>Computer Vision Assistance for the Visually Impaired</b><br/>
+        PyTorch · Deep Learning · Object Detection · Python
+      </p>
+      <ul>
+        <li>Real-time scene analysis and obstacle recognition.</li>
+        <li>Optimized neural network inference for mobile edge deployment.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚽ <a href="https://github.com/Achehrour05/Fantasy_premier_league_team_of_the_week">FPL Squad Optimizer</a></h3>
+      <p align="center">
+        <b>Algorithmic Fantasy Premier League Optimizer</b><br/>
+        Python · Linear Programming · Scikit-Learn · Data Analytics
+      </p>
+      <ul>
+        <li>Automated expected points prediction based on historical player form.</li>
+        <li>Constrained budget solver maximizing weekly match returns.</li>
       </ul>
     </td>
   </tr>
@@ -187,51 +113,23 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Achehrour05&theme=tokyonight&no-frame=true&column=8&margin-w=8&title=Stars,Repositories,Commits,Followers,PullRequest,Reviews,MultiLanguage,Issues&wantAll=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Achehrour05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achehrour05&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achehrour05&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 Statistiques & Activité GitHub
-
-<h3 align="center">🔥 Série d'Activité (Streak Stats)</h3>
-
+<!-- Bottom Footer Banner -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Achehrour05&theme=tokyonight&hide_border=false" width="480" alt="GitHub Streak Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
-
-<h3 align="center">💻 Profil & Langages Principaux</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Achehrour05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" width="430" style="margin-right: 10px;" alt="GitHub Profile Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Achehrour05&layout=compact&langs_count=6&theme=tokyonight" width="330" alt="Top Languages" />
+  ⭐️ <i>Designed & Maintained by <a href="https://github.com/Achehrour05">Abdessamad Achehrour</a></i> ⭐️
 </p>
-
----
-
-<div align="center">
-
-### 💬 Entrons en Contact
-
-<p>
-  Vous êtes à la recherche d'un profil alliant <b>Génie Logiciel Full-Stack</b> et <b>Intelligence Artificielle</b> ?<br/>
-  N'hésitez pas à me contacter pour toute opportunité de stage ou collaboration technique !
-</p>
-
-<p>
-  📧 <b>Email :</b> <a href="mailto:abdessamadachehrour@gmail.com">abdessamadachehrour@gmail.com</a> &nbsp;|&nbsp;
-  📱 <b>Tél :</b> +212 6 79 16 57 67 &nbsp;|&nbsp;
-  💼 <b>LinkedIn :</b> <a href="https://www.linkedin.com/in/abdessamad-achehrour-800138346">Abdessamad Achehrour</a>
-</p>
-
-<p>
-  ⭐ <i>N'hésitez pas à explorer mes dépôts et ajouter une étoile aux projets qui vous inspirent !</i> ⭐
-</p>
-
-<!-- Footer Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=100&section=footer" width="100%" alt="Footer Banner" />
-
-</div>
