@@ -1,135 +1,105 @@
-<!-- Top Hero Banner with Wave Animation -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7611F7&center=true&vCenter=true&width=650&height=70&duration=4000&pause=1000&lines=✨+Hey+Friend!;+I'm+Abdessamad+Achehrour;+Software+Engineering+Student+%40+FSTG;+Full+Stack+%26+AI+Developer;+Welcome+to+my+GitHub+account;"/>
+</h1>
+
+<h3 align="center">Software Engineering Student @ FSTG Marrakech | Full Stack (React, Spring Boot, FastAPI) & AI / GenAI / Multi-Agents | Cloud & DevOps</h3>
+
+<p align="center">Passionate software engineering student at the intersection of full-stack web and mobile development (React, Next.js, Spring Boot, Laravel, FastAPI), containerized microservices with Docker & Apache Kafka, and Artificial Intelligence (Deep Learning, LLMs, RAG, multi-agent architectures with LangGraph). Experienced through 3 professional software engineering internships. Autonomous, rigorous, and collaborative builder dedicated to crafting impactful and scalable digital experiences.</p>
+
+<div align="center">
+  <a href="https://user-badge.committers.top/morocco/Achehrour05">
+    <img src="https://user-badge.committers.top/morocco/Achehrour05.svg" />
+  </a>
+</div>
+
+[![MasterHead](https://github.com/user-attachments/assets/1146ab68-d416-494f-9d41-5d1d99f39397)](https://achehrour-2005.github.io/Portfulio)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Abdessamad%20Achehrour&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=58&descFontSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Achehrour05&theme=dracula&no-frame=true&column=8&margin-w=8&title=Stars,Repositories,Commits,Followers,PullRequest,Reviews,MultiLanguage,Issues&wantAll=true" alt="trophies"/>
 </p>
 
-<!-- Typing Subtitle Effect -->
-<p align="center">
-  <a href="https://github.com/Achehrour05">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Engineering+Student+%40+FST+Marrakech+%F0%9F%8E%93;Full-Stack+Developer+(React%2C+Spring+Boot%2C+FastAPI)+%F0%9F%92%BB;Computer+Vision+%26+Deep+Learning+Builder+%F0%9F%A4%96;Passionate+about+Crafting+Scalable+Architectures+%E2%9A%A1" alt="Typing SVG" />
+<h3 align="center">Connect with me:</h3>
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/abdessamad-achehrour-800138346" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" style="margin-right: 10px;" alt="LinkedIn" />
   </a>
+  <a href="mailto:abdessamadachehrour@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" width="52" height="52" style="margin-right: 10px;" alt="Gmail"/>
+  </a>
+  <a href="https://achehrour-2005.github.io/Portfulio" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335273.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+<p>
+    <img align="right" alt="Coding" width="355" style="margin-bottom: 20px;" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdessamad-achehrour/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdessamadachehrour@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Achehrour05">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+- 🌍 I'm based in **Marrakech, Morocco 🇲🇦**
+
+- 🎓 Software Engineering Student (Cycle d'ingénieur Informatique & Réseaux) @ **Faculté des Sciences et Techniques de Marrakech (FSTG)**
+
+- 💼 Former Software Engineering Intern @ **PCS AGRI** (Smart Agriculture AI with PyTorch/ONNX) & **Lean Soft** (Odoo ERP & Next.js)
+
+- 🔭 Currently building **Smart Support Hub** (Event-driven Multi-Agent RAG with FastAPI, Kafka, LangGraph & React)
+
+- 🌱 Expanding my expertise in **GenAI Multi-Agent Systems, LangGraph, LLMs, and Cloud-Native Microservices**
+
+- 👯 I collaborate with teams and love to contribute to impactful open-source projects
+
+- 📫 How to reach me: **abdessamadachehrour@gmail.com**
+
+- ⚡ Fun fact: Artificial neural networks were inspired by the human brain, but training them with PyTorch and CUDA requires far more espresso! ☕
+
+---
+
+<h3>🧰 Languages and Tools</h3>
+<p align="center" style="padding-right:10px">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,php,html,css,tailwind,react,nextjs,angular,nodejs,express,spring,laravel,fastapi,flask,pytorch,tensorflow,sklearn,opencv,postgres,mysql,mongodb,sqlite,docker,kafka,git,github,gitlab,nginx,linux,ubuntu,windows,vscode,idea,pycharm,postman,figma&theme=dark&perline=10" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 📊 Stats and Activity
 
-```yaml
-name: Abdessamad Achehrour
-location: Marrakech, Morocco 🇲🇦
-education: State Engineering Degree in Networks & Information Systems @ FSTG (2024 - Present)
-focus_areas:
-  - Full-Stack Architecture (Spring Boot 3, FastAPI, React 19)
-  - Deep Learning, Computer Vision & NLP (PyTorch, YOLOv8, Transformers)
-  - Distributed Systems, Cloud & Database Design
-passions: Building high-impact products, combat sports analytics, and traveling
-status: Open to Software Engineering, AI & Full-Stack Opportunities 🚀
-```
+<h3 align="center">🔥 Streak Stats</h3>
+  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Achehrour05&theme=dracula&hide_border=false&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" width="450" alt="GitHub Streak"/>
+</p>
+
+<h3 align="center">💻 GitHub Profile Stats</h3> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Achehrour05&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="430" style="margin-right: 10px;" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achehrour05&layout=compact&langs_count=6&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="328" alt="Top Languages" /> 
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+## 📖 Favorite Quote
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) |
-| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **AI, ML & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| **Databases & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+> <sup>“</sup> <em>The best way to predict the future is to invent it. Combine disciplined engineering with intelligent algorithms, and build what matters.</em> <sup>”</sup>  
+> — <strong>Abdessamad Achehrour</strong>
 
 </div>
 
 ---
 
-### 🚀 Featured Showcase Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏺 <a href="https://github.com/Achehrour05/MoroccoMemory">Morocco Memory</a></h3>
-      <p align="center">
-        <b>Luxury Moroccan Travel & Artisan Heritage Platform</b><br/>
-        Spring Boot 3 · React 19 · PostgreSQL · JWT · Docker
-      </p>
-      <ul>
-        <li>Interactive geographic exploration of 12 Moroccan regions.</li>
-        <li>AI vacation planner with customized exportable itineraries.</li>
-        <li>Marketplace connecting travelers directly to authentic cooperatives.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🥊 <a href="https://github.com/Achehrour05/Vanguard-Combat">Vanguard Combat</a></h3>
-      <p align="center">
-        <b>Elite Multi-Discipline Combat Intelligence Hub</b><br/>
-        FastAPI · React · Uvicorn · REST APIs · Tailwind
-      </p>
-      <ul>
-        <li>Live athlete profiling across MMA, Boxing, BJJ, Kickboxing & Wrestling.</li>
-        <li>Real-time data aggregation via Octagon and TheSportsDB APIs.</li>
-        <li>Embedded Combat AI tactical engine with strategic advice.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ <a href="https://github.com/Achehrour05">VisionGuide AI</a></h3>
-      <p align="center">
-        <b>Computer Vision Assistance for the Visually Impaired</b><br/>
-        PyTorch · Deep Learning · Object Detection · Python
-      </p>
-      <ul>
-        <li>Real-time scene analysis and obstacle recognition.</li>
-        <li>Optimized neural network inference for mobile edge deployment.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚽ <a href="https://github.com/Achehrour05/Fantasy_premier_league_team_of_the_week">FPL Squad Optimizer</a></h3>
-      <p align="center">
-        <b>Algorithmic Fantasy Premier League Optimizer</b><br/>
-        Python · Linear Programming · Scikit-Learn · Data Analytics
-      </p>
-      <ul>
-        <li>Automated expected points prediction based on historical player form.</li>
-        <li>Constrained budget solver maximizing weekly match returns.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Statistics
+<div align="center">
+   <p>Do you want to contact me for full-stack, AI, or collaboration opportunities? ⟶ 
+      <a href="mailto:abdessamadachehrour@gmail.com" target="_blank"><b>abdessamadachehrour@gmail.com</b></a><br>
+       ---
+      <b>Feel free to explore my repositories and star 🌟 the ones you find interesting!</b>
+   </p>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achehrour05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achehrour05&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achehrour05&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
-
----
-
-<!-- Bottom Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=120&section=footer" width="100%" alt="Footer Banner" />
-</p>
-<p align="center">
-  ⭐️ <i>Designed & Maintained by <a href="https://github.com/Achehrour05">Abdessamad Achehrour</a></i> ⭐️
-</p>
+<br/>
